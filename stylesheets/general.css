@@ -1,0 +1,17 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  background: whitesmoke;
+}
+
+/*OUR HISTORY*/
+
+.content {
+  margin-top: 60px;
+}
